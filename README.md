@@ -41,10 +41,14 @@ To understand which are the various variables that have an impact on the click r
 ## Assumptions:
 
 Label: represents the status of clicking.
+
 0 - not clicked
+
 1 - Clicked
 
+
 inter_type_cd: represents the display form of the ad.
+
 3 - Image
 
 4 - GIF
@@ -52,19 +56,23 @@ inter_type_cd: represents the display form of the ad.
 5 - Videos
 
 Gender:
+
 0 - Female
 
 1 - Male
 
 2 - Others
 
+
 Slot_id: represents the placement of the ad on the screen.
 
 11 to 22 - represents the various location of the ad placement.
 
+
 Net_type: represents the status of the net.
 
 2 to 6 - 2 being the weakest and 6 being the strongest.
+
 
 City_rank: represents Level of the resident city of a user
 
