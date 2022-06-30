@@ -46,19 +46,26 @@ Label: represents the status of clicking.
 
 inter_type_cd: represents the display form of the ad.
 3 - Image
+
 4 - GIF
+
 5 - Videos
 
 Gender:
 0 - Female
+
 1 - Male
+
 2 - Others
 
 Slot_id: represents the placement of the ad on the screen.
+
 11 to 22 - represents the various location of the ad placement.
 
 Net_type: represents the status of the net.
+
 2 to 6 - 2 being the weakest and 6 being the strongest.
 
 City_rank: represents Level of the resident city of a user
+
 2 to 5: 2 being the lowest and 5 being highest.
