@@ -15,29 +15,6 @@ Following are some of the reasons why CTR is important for advertisers:
 • Understand the dynamics and behavior of the target audience
 
 
-## Research Plan:
-
-
-Significance of Study:
-
-This study is extremely important for digital marketing managers of various companies that use internet marketing. This study deep dives into various variables that impact the click rate of a digital ad campaign. It further explores and explains which ad type is more clickable and also helps understand user behavior basis demographic variables such as age, gender, city rank, etc. This study will help the manager plan future digital campaigns keeping in mind the effect of each variable on click
-
-
-Research Objectives:
-
-With the above research we will figure out which variables plays the key role in determining the click rate. This research also determines how a particular value or feature of a variable attracts more clicks as compared to the rest. And, we also proved a correlation between two variables and click rate.
-
-
-Anticipated Results
-
-We strongly believe that certain ad types (inter_ad) attracts more clicks than the rest. And, similarly various variables like age, gender, net type, city rank are independently or coherently has an affect on click rate.
-
-
-## Objective:
-
-To understand which are the various variables that have an impact on the click rate and to what extent.
-
-
 ## Assumptions:
 
 **Label: represents the status of clicking.**
