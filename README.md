@@ -1,7 +1,7 @@
-# CTR-analysis
+# CTR-Analysis
 
 
-# Project Description:
+## Project Description:
 Click Through Rate in Digital Advertising is one of the most important metrics. It measures the number of clicks a particular advertiser received on their ad per the number of impressions (impressions = number of times the ad was shown to a user). It gives a broad view to the advertiser on how well their ad is received by the users. 
 
 Following are some of the reasons why CTR is important for advertisers:
